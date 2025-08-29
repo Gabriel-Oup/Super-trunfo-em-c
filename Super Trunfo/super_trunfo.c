@@ -6,7 +6,7 @@ int main(){
     //Nome das variaveis usadas
     char Estado1 = 'A', Estado2 = 'B';
     char Codigo_Carta1[30] = "A-01", Codigo_Carta2[20] = "B-02", Cidade1[30], Cidade2[30];
-    int Pontos_Turisticos1, Pontos_Turisticos2, Ponto1, Ponto2, Ponto3, Ponto4, Ponto5, Ponto6, Ponto7, Ponto_Extra_Densidade;
+    int Pontos_Turisticos1, Pontos_Turisticos2;
     unsigned long int População1, População2;
     float Area1, Area2, PIB1, PIB2, Densidade1, Densidade2, PIB_Capita1, PIB_Capita2, SuperPoder1, SuperPoder2;
 
